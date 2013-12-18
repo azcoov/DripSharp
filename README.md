@@ -1,7 +1,7 @@
 DripSharp
 =========
 
-C# Wrapper for Drip Webhooks
+C# Wrapper for Drip Webhooks [https://www.getdrip.com/docs/webhooks](https://www.getdrip.com/docs/webhooks)
 
 
 Usage
